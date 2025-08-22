@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing sales performance using **Power BI**. The dashboard provides deep insights into revenue, customer behavior, order trends, product performance, and city-level sales distribution. It helps businesses track **sales performance, delivery efficiency, customer engagement, and product demand** across different dimensions such as time, occasion, and geography.
+This project focuses on analyzing sales performance using MS Excel.The dashboard provides deep insights into revenue, customer behavior, order trends, product performance, and city-level sales distribution. It helps businesses track **sales performance, delivery efficiency, customer engagement, and product demand** across different dimensions such as time, occasion, and geography.
 
 ## 🛠 Tools & Technologies
 
@@ -71,6 +71,3 @@ These KPIs provide a quick snapshot of business performance.
 2. Apply transformations using **Power Query** if needed.
 3. Use DAX measures for KPIs (Revenue, Orders, Avg Delivery Time).
 4. Interact with filters (Date, Occasion, Product Category) for dynamic insights.
-
-
-Would you like me to **write this in a polished `README.md` format with Markdown styling** (badges, sections, emojis, etc.) so you can directly upload it to GitHub?
