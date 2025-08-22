@@ -67,7 +67,7 @@ These KPIs provide a quick snapshot of business performance.
 
 ## 📌 How to Use
 
-1. Load the dataset into **Power BI Desktop**.
+1. Load the dataset into **MS EXCEL**.
 2. Apply transformations using **Power Query** if needed.
 3. Use DAX measures for KPIs (Revenue, Orders, Avg Delivery Time).
 4. Interact with filters (Date, Occasion, Product Category) for dynamic insights.
